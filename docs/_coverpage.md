@@ -1,4 +1,4 @@
-<img width="220px" src="https://github-blog-2bcoder-1301192342.cos.ap-chengdu.myqcloud.com/icons/IceFloe_Rot.jpg">
+<img width="220px" src="https://github-blog-2bcoder-1301192342.cos.ap-chengdu.myqcloud.com/icons/IceFloe_Rot_(circle).png">
 
 
 - Fork自Github排名前20的项目"CS-Notes"，删除原有文章，仅保留模板，从零开始记录菜鸟程序员的学习笔记。
